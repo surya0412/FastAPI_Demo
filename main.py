@@ -8,3 +8,4 @@ def something():
 
 def somethingmore():
     return "nothing"
+print("hi hello some other developer did something")
